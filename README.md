@@ -1,0 +1,1 @@
+# --nome-a-es-do-auxiliar-de-aplicativo-do-n-usos-guahanweb-action-nodejs-gh-pages-1.0.0
